@@ -1,2 +1,2 @@
 # Early_Bird
-This repository contains basic projects of data analytics
+This repository will contain basic projects of data analytics
